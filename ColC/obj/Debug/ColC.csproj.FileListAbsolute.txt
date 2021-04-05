@@ -1,0 +1,9 @@
+C:\Users\Acer\Documents\SharpDevelop Projects\ColC\ColC\bin\Debug\ColC.exe.config
+C:\Users\Acer\Documents\SharpDevelop Projects\ColC\ColC\bin\Debug\ColC.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\ColC\ColC\bin\Debug\ColC.pdb
+C:\Users\Acer\Documents\SharpDevelop Projects\ColC\ColC\obj\Debug\ColC.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\SharpDevelop Projects\ColC\ColC\obj\Debug\ColC.Computation.resources
+C:\Users\Acer\Documents\SharpDevelop Projects\ColC\ColC\obj\Debug\ColC.MainForm.resources
+C:\Users\Acer\Documents\SharpDevelop Projects\ColC\ColC\obj\Debug\ColC.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\SharpDevelop Projects\ColC\ColC\obj\Debug\ColC.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\ColC\ColC\obj\Debug\ColC.pdb
